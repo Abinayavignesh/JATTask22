@@ -107,3 +107,7 @@ public class dropDownSyn {
 	}
 
 }
+
+
+/*OUTPUT
+User registered */
